@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="dung-slave_ANHDUNG.stage"
+  DTS:DTSID="{363DE8D5-E468-44A1-8AF3-665C5B12C42D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=dung-slave\ANHDUNG;Initial Catalog=stage;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SSIS-{363DE8D5-E468-44A1-8AF3-665C5B12C42D}dung-slave\ANHDUNG.stage;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

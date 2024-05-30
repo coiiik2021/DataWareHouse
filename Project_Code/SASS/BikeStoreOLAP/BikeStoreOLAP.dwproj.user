@@ -1,0 +1,34 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Bike Store DWH</Id>
+            <Name>Bike Store DWH</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXlxlzdaWZEqiM316hiZ5gAAAAAAeAAAAQgBpAGsAZQAgAFMAdABvAHIAZQAgAEQAVwBIAAAAEGYAAAABAAAgAAAA1CD0N9ZPaVYg84hbGaq7Qt3xo3FaoJzoJjvcSPpdasIAAAAADoAAAAACAAAgAAAANjUvcdRV+sLCV+2jMkQ/d5taq0Kmwmx0QsrTY+EiPSUQAAAA53uNrf8Qh5QiVivnOGPmm0AAAACkVNn4oM0Jb5GRA9zl3JptP1qnLzWh3bFTCCL/XGYjQ8QIDb/FPGQmsZe1z5RQbW08Zbpghp1VUBoS+iW84TH3</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Bike Store DWH 1</Id>
+            <Name>Bike Store DWH 1</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXlxlzdaWZEqiM316hiZ5gAAAAAAiAAAAQgBpAGsAZQAgAFMAdABvAHIAZQAgAEQAVwBIACAAMQAAABBmAAAAAQAAIAAAAC61LGmaQ6lT3YkDiF3dsyavLnUlqQSL/8lpMbi0SoriAAAAAA6AAAAAAgAAIAAAAP3rqY0fI2FumfuYOFwX1cH6Tei8tk2xOPHwzvg82ChOEAAAAIarC8MoHKePtdOKTW/S/txAAAAADGTLfQoxPEO+Z4KqkA1LHaAfiWCpyib4Si4MljIIaK0lUUmJ3I13eZOM1zTaeslomGyNugp+1FwQ55ey/a7xhg==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Bike Store DWH</Id>
+            <Name>Bike Store DWH</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXlxlzdaWZEqiM316hiZ5gAAAAAAeAAAAQgBpAGsAZQAgAFMAdABvAHIAZQAgAEQAVwBIAAAAEGYAAAABAAAgAAAAMp3gSm6t6vdN2syDM7pDAlZqwzReRupCWhIEZB2cSvQAAAAADoAAAAACAAAgAAAAjsIUoVEp+x2Z/pfHFOngR+tEj7eoDDhH3Z99q3rx/0EQAAAAqaLFfC6CyfagS/2+uZ/m50AAAAAIuw1mRHnGdyn5dMXbWXprsTpnZTMNgFPttnBzkk0f2+JIAukmcbhCSYIZv71DH6w8bsIUA/wXFdcv7G3k26Aa</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>ASUS-TUFGAMING</TargetServer>
+        <TargetDatabase>BikeStoreOLAP</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>

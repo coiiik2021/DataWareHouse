@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="dung-slave_ANHDUNG.BikeStoreDB"
+  DTS:DTSID="{A47859BD-188C-4CBD-8266-4882A4EA4A52}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=dung-slave\ANHDUNG;Initial Catalog=BikeStoreDB;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SSIS-{A47859BD-188C-4CBD-8266-4882A4EA4A52}dung-slave\ANHDUNG.BikeStoreDB;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
